@@ -77,3 +77,4 @@ const DetailProduct = ({ product }) => {
     </Layout>
   );
 };
+export default DetailProduct;
